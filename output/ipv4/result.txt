@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-08 06:15:39,http://php.cqshushu.ggff.net/jzb.php?id=cctv1&公众号【医工学习日志】
+2025-11-09 18:26:14,http://php.cqshushu.ggff.net/jzb.php?id=cctv1&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-1,http://php.cqshushu.ggff.net/jzb.php?id=cctv1&公众号【医工学习日志】
@@ -9,7 +9,6 @@ CCTV-13,http://php.cqshushu.ggff.net/jzb.php?id=cctv13&公众号【医工学习�
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,http://223.10.81.133:8888/rtp/239.1.1.65:8065
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
@@ -18,9 +17,12 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://111.221.137.155:44330/tsfile/live/0138_1.m3u8?key=txiptv
+安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv
 
 ☘️湖南频道,#genre#
