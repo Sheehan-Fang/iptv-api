@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:16:53,http://bxtv.3a.ink/migu.php?id=cctv2
+2025-11-21 18:28:39,http://bxtv.3a.ink/migu.php?id=cctv2
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
@@ -22,8 +22,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
