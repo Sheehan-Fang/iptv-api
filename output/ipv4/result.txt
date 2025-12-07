@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-07 18:25:13,http://183.220.107.138:4022/rtp/239.11.0.22:5140
+2025-12-08 06:14:33,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
-CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
@@ -14,7 +13,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
-江西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 ☘️湖南频道,#genre#
