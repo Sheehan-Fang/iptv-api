@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-01 20:40:07,rtmp://39.108.129.193:1935/cctv1/1sao
+2026-07-02 07:07:20,rtmp://39.108.129.193:1935/cctv1/1sao
 
 📺央视频道,#genre#
 CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
 CCTV-2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
-CCTV-2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4
-CCTV-4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV-5,rtmp://39.108.129.193:1935/cv5/6mio_cv5
 CCTV-6,rtmp://39.108.129.193:1935/cv6/re68_cv6
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
@@ -18,8 +16,8 @@ CCTV-9,rtmp://39.108.129.193:1935/cv9/jr0g_cv9
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://173.208.212.130:8181/720p/cctv10.m3u8
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://www.negative.top:50000/rtp/233.50.200.22:5140
 CCTV-11,rtmp://39.108.129.193:1935/cv11/gjnk_cv11
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
@@ -36,30 +34,26 @@ CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
-湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
+湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
+湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
-黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
-黑龙江卫视,http://101.66.194.49:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 东南卫视,http://198.204.240.250:82/live/dnws.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-广西卫视,http://101.66.194.49:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
+河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
-江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
-辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
