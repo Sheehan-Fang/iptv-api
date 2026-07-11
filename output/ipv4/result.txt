@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-11 19:12:58,rtmp://39.108.129.193:1935/cctv1/1sao
+2026-07-12 06:41:21,rtmp://39.108.129.193:1935/cctv1/1sao
 
 📺央视频道,#genre#
 CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
@@ -27,12 +27,10 @@ CCTV-14,rtmp://39.108.129.193:1935/cv14/16rk_cv14
 CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 CCTV-15,rtmp://39.108.129.193:1935/cv15/zvk0_cv15
 CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV-17,http://173.208.212.130:8181/720p/cctv17.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
-浙江卫视,http://182.37.41.46:8154/tsfile/live/0124_1.m3u8?key=txiptv
 湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
