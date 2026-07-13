@@ -1,14 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-12 06:41:21,rtmp://39.108.129.193:1935/cctv1/1sao
+2026-07-13 20:38:40,rtmp://39.108.129.193:1935/cctv1/1sao
 
 📺央视频道,#genre#
 CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
 CCTV-2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
 CCTV-4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4
 CCTV-5,rtmp://39.108.129.193:1935/cv5/6mio_cv5
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,rtmp://39.108.129.193:1935/cv6/re68_cv6
-CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://173.208.212.130:8181/720p/cctv6.m3u8
+CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,rtmp://39.108.129.193:1935/cv7/n6v4_cv7
 CCTV-8,rtmp://39.108.129.193:1935/cv8/rreo_cv8
@@ -26,16 +27,15 @@ CCTV-13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13
 CCTV-14,rtmp://39.108.129.193:1935/cv14/16rk_cv14
 CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 CCTV-15,rtmp://39.108.129.193:1935/cv15/zvk0_cv15
-CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
 广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
-湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
-北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
@@ -45,9 +45,9 @@ CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
-江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 
