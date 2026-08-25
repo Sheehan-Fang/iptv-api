@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-24 06:15:05,rtmp://39.108.129.193:1935/cctv1/1sao
+2026-08-25 18:39:45,rtmp://39.108.129.193:1935/cctv1/1sao
 
 📺央视频道,#genre#
 CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
+CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8
 CCTV-2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
 CCTV-2,http://104.152.209.49:8181/720p/cctv2.m3u8
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
@@ -14,6 +15,7 @@ CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-6,rtmp://39.108.129.193:1935/cv6/re68_cv6
 CCTV-6,http://104.152.209.49:8181/720p/cctv6.m3u8
+CCTV-6,http://182.140.125.47:808/hls/6/index.m3u8
 CCTV-7,rtmp://39.108.129.193:1935/cv7/n6v4_cv7
 CCTV-7,http://104.152.209.49:8181/720p/cctv7.m3u8
 CCTV-8,rtmp://39.108.129.193:1935/cv8/rreo_cv8
@@ -32,9 +34,10 @@ CCTV-17,http://104.152.209.49:8181/720p/cctv17.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+广东卫视,http://27.39.122.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://104.152.209.49:8181/720p/zjws.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://104.152.209.49:8181/720p/hnws.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
